@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react3-usuarios-github/static/css/main.9e8be502.css",
+    "main.css": "/react3-usuarios-github/static/css/main.579f68f1.css",
     "main.js": "/react3-usuarios-github/static/js/main.8ecbc549.js",
     "static/media/hero-image-github-profile.png": "/react3-usuarios-github/static/media/hero-image-github-profile.4d7f000d6e40f65e9038.png",
     "index.html": "/react3-usuarios-github/index.html",
-    "main.9e8be502.css.map": "/react3-usuarios-github/static/css/main.9e8be502.css.map",
+    "main.579f68f1.css.map": "/react3-usuarios-github/static/css/main.579f68f1.css.map",
     "main.8ecbc549.js.map": "/react3-usuarios-github/static/js/main.8ecbc549.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e8be502.css",
+    "static/css/main.579f68f1.css",
     "static/js/main.8ecbc549.js"
   ]
 }
