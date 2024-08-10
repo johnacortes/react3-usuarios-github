@@ -397,6 +397,8 @@ body {
 
   .div-bio {
     height: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
   }
 
   .followers-location {
@@ -404,13 +406,9 @@ body {
     flex-direction: column;
     height: auto;
     margin: 0;
-    margin-top: 50px;
+    margin-top: 80px;
     margin-bottom: 0;
     gap: 0;
-  }
-
-  .div-bio {
-    margin-top: 0;
   }
 
   .container-repositories {
@@ -423,5 +421,8 @@ body {
 
   .input-search {
     width: 250px;
+  }
+  .container-svg-input {
+    width: 280px;
   }
 }
