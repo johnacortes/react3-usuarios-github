@@ -387,11 +387,15 @@ body {
 
 @media (max-width: 500px) {
   .panel-main {
-    width: 250px;
+    width: 280px;
   }
 
   .container-presentation {
-    width: 250px;
+    width: 280px;
+    height: auto;
+  }
+
+  .div-bio {
     height: auto;
   }
 
@@ -400,7 +404,7 @@ body {
     flex-direction: column;
     height: auto;
     margin: 0;
-    margin-top: 0;
+    margin-top: 50px;
     margin-bottom: 0;
     gap: 0;
   }
@@ -410,10 +414,14 @@ body {
   }
 
   .container-repositories {
-    width: 260px;
+    width: 290px;
   }
 
   .repos {
+    width: 280px;
+  }
+
+  .input-search {
     width: 250px;
   }
 }
