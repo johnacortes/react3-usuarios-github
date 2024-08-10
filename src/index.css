@@ -384,3 +384,36 @@ body {
     width: 470px;
   }
 }
+
+@media (max-width: 500px) {
+  .panel-main {
+    width: 250px;
+  }
+
+  .container-presentation {
+    width: 250px;
+    height: auto;
+  }
+
+  .followers-location {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    gap: 0;
+  }
+
+  .div-bio {
+    margin-top: 0;
+  }
+
+  .container-repositories {
+    width: 260px;
+  }
+
+  .repos {
+    width: 250px;
+  }
+}
