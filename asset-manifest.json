@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react3-usuarios-github/static/css/main.7baf248b.css",
+    "main.js": "/react3-usuarios-github/static/js/main.8ecbc549.js",
+    "static/media/hero-image-github-profile.png": "/react3-usuarios-github/static/media/hero-image-github-profile.4d7f000d6e40f65e9038.png",
+    "index.html": "/react3-usuarios-github/index.html",
+    "main.7baf248b.css.map": "/react3-usuarios-github/static/css/main.7baf248b.css.map",
+    "main.8ecbc549.js.map": "/react3-usuarios-github/static/js/main.8ecbc549.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7baf248b.css",
+    "static/js/main.8ecbc549.js"
+  ]
+}
